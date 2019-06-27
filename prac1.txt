@@ -1,0 +1,13 @@
+#include<>
+#include<>
+
+function1();
+function2();
+
+main()
+{
+variables;
+
+	function1();
+	function2();
+}
